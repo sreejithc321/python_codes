@@ -1,2 +1,1 @@
-# python_codes
-python problems and solutions
+1. Two Sum

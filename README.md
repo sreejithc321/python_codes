@@ -1,3 +1,3 @@
-1 Two Sum
-283 Move Zeroes
-941 Valid Mountain Array
+Two Sum (1.py)
+Move Zeroes (283.py)
+Valid Mountain Array (941.py)
